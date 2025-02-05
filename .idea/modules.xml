@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConvertitoreBinario/ConvertitoreBinario.iml" filepath="$PROJECT_DIR$/ConvertitoreBinario/ConvertitoreBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distributore/Distributore.iml" filepath="$PROJECT_DIR$/Distributore/Distributore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaaa/Es Pilota/Es Pilota.iml" filepath="$PROJECT_DIR$/aaaa/Es Pilota/Es Pilota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaaa/Es Quadrato/Es Quadrato.iml" filepath="$PROJECT_DIR$/aaaa/Es Quadrato/Es Quadrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaaa/EsercizioTriangolo/EsercizioTriangolo.iml" filepath="$PROJECT_DIR$/aaaa/EsercizioTriangolo/EsercizioTriangolo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Giorgia IntelliJ Project.iml" filepath="$PROJECT_DIR$/Giorgia IntelliJ Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Informatica/Informatica.iml" filepath="$PROJECT_DIR$/Informatica/Informatica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaccia/Interfaccia.iml" filepath="$PROJECT_DIR$/Interfaccia/Interfaccia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPSIT/TPSIT.iml" filepath="$PROJECT_DIR$/TPSIT/TPSIT.iml" />
+    </modules>
+  </component>
+</project>

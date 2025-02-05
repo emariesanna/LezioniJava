@@ -1,0 +1,15 @@
+Primo File "Esercizio.java"
+
+classe Esercizio
+ - Main
+    1) Dichiarazione delle istanze della classe thread
+    2) Chiamata metodo start delle istanze
+    3) A seconda dell'esercizio, ulteriori elaborazioni
+
+Secondo File "Thread.java"
+classe Thread
+ - Dichiarazione campi
+ - Costruttore
+    1) Inizializzazione campi
+ - Metodo run
+    1) Implementazione del codice da eseguire
