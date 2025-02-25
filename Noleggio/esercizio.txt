@@ -1,0 +1,68 @@
+Un'azienda di noleggio veicoli desidera un programma per gestire il noleggio di veicoli.
+
+I veicoli sono caratterizzati da:
+    - modello,
+    - anno,
+    - velocitaMassima,
+    - prezzoNoleggio
+come variabili private.
+
+Oltre ai metodi get
+prevedere i metodi che consentano di:
+    - calcolare il costo del noleggio in base ai giorni per i quali si richiede il mezzo,
+    - visualizzare i dati del veicolo.
+
+I veicoli possono essere:
+    - auto (con in più il numero di porte),
+    - moto (che possono avere o meno il cavalletto)
+    - furgoni (con la capacità del carico).
+
+Prevedere la classe noleggio che contiene l'elenco dei mezzi disponibili (max 10) e prevedere i metodi:
+    - aggiungi veicolo
+    - mostra elenco veicoli
+    - trova veicolo in base alla targa
+
+Nel main prevedere un menù dove sia possibile:
+    - Inserire un nuovo veicolo (chiedere se auto, moto o furgone)
+    - Calcolare il costo del noleggio per un certo modello mostrando a video i dati del modello e il prezzo finale
+
+
+Veicolo
+****************
+- String modello
+- int anno
+- int velocitaMassima
+- double prezzoNoleggio
+****************
++ String getModello()
++ int getAnno()
++ int getVelocitaMassima()
++ double getPrezzoNoleggio()
++ double calcoloCosto(int giorni)
++ void visualizzaDati()
+
+Auto (Veicolo)
+****************
+- int porte
+****************
+- int getPorte()
+
+Moto (Veicolo)
+****************
+- boolean cavalletto
+****************
+- boolean getCavalletto()
+
+Furgoni (Veicolo)
+****************
+- int capacità
+****************
+- int getCapacità()
+
+
+Noleggio
+***************
+- Veicolo veicoli[10]
+***************
++ void inserisciVeicolo()
++ double calcoloCosto(String modello, int giorni)

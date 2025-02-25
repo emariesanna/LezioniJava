@@ -1,0 +1,24 @@
+=============================
+Cliente
+=============================
++ String nome
++ String cognome
++ int telefono
++ int numero_accesso
+=============================
+
+=============================
+
+
+
+=============================
+Coda
+=============================
++ Cliente[10] clienti_in_coda
++ int numero_clienti
+=============================
++ boolean aggiungi_cliente(Cliente)    {un cliente arriva, prende il numero e si mette in coda}
++ boolean rimuovi_cliente()            {il primo cliente viene servito, esce dalla coda e la coda scorre}
++ boolean stampa_coda()                {stampa la coda per intero}
++ boolean stampa_cliente(int)          {stampa i dati dell'ennesimo cliente}
+=============================

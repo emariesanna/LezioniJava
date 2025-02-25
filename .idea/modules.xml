@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConvertitoreBinario/ConvertitoreBinario.iml" filepath="$PROJECT_DIR$/ConvertitoreBinario/ConvertitoreBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvertitoreBinarioSoluzione/ConvertitoreBinarioSoluzione.iml" filepath="$PROJECT_DIR$/ConvertitoreBinarioSoluzione/ConvertitoreBinarioSoluzione.iml" />
       <module fileurl="file://$PROJECT_DIR$/Distributore/Distributore.iml" filepath="$PROJECT_DIR$/Distributore/Distributore.iml" />
       <module fileurl="file://$PROJECT_DIR$/aaaa/Es Pilota/Es Pilota.iml" filepath="$PROJECT_DIR$/aaaa/Es Pilota/Es Pilota.iml" />
       <module fileurl="file://$PROJECT_DIR$/aaaa/Es Quadrato/Es Quadrato.iml" filepath="$PROJECT_DIR$/aaaa/Es Quadrato/Es Quadrato.iml" />
@@ -10,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/Informatica/Informatica.iml" filepath="$PROJECT_DIR$/Informatica/Informatica.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaccia/Interfaccia.iml" filepath="$PROJECT_DIR$/Interfaccia/Interfaccia.iml" />
       <module fileurl="file://$PROJECT_DIR$/LezioniJava.iml" filepath="$PROJECT_DIR$/LezioniJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Noleggio/Noleggio.iml" filepath="$PROJECT_DIR$/Noleggio/Noleggio.iml" />
       <module fileurl="file://$PROJECT_DIR$/TPSIT/TPSIT.iml" filepath="$PROJECT_DIR$/TPSIT/TPSIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UfficioPostale/UfficioPostale.iml" filepath="$PROJECT_DIR$/UfficioPostale/UfficioPostale.iml" />
     </modules>
   </component>
 </project>
